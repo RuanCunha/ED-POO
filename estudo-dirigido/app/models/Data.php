@@ -5,7 +5,10 @@
  * Date: 23/11/18
  * Time: 09:10
  */
-
+//Questão 10
+//Criando uma classe chamada Data, fica muito mais fácil alterar as informações contendo dias, mês e anos. Assim não se limitaria a apenas
+//data de Entrada, mas também poderíamos utilizar data de saída, informações como validade, vencimento e várias outros atributos que envol-
+//datas
 class Data
 {
     //Atributos da Classe
